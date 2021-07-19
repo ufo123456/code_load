@@ -19,4 +19,5 @@ void three(){
 }
 void one_three(){
     printf("one\n");
+    return 0;
 }
