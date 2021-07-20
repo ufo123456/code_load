@@ -1,2 +1,3 @@
 # code_load
-c/c++
+A common study C note
+QWQ
