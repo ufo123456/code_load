@@ -1,3 +1,3 @@
 # code_load
-A common study C note
+一个普通的学习C笔记
 QWQ
